@@ -1,10 +1,3 @@
-<style>
-.centered-code {
-  text-align: center;
-  font-size: 1.2em; /* Adjust as needed */
-}
-</style>
-
   ```javascript
   console.log(Hello World, I'm Chris!)
   ```
